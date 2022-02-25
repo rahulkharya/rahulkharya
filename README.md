@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulkharya
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Blockchain, Java (Spring Boot), Nodejs & Golang
+- 🌱 I’m currently learning Blockchain, React, Java, Nodejs & Golang
 - 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me - rahulkharya@outlook.com
 
